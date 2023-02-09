@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mengjia Zhu"
-  avatar           : "avatar.png"
+  avatar           : "avatar.jpg"
   bio              : "PhD student at IMT Lucca. My current research interests include black-box optimization and control, with particular emphasis on active, preference, and safe learning."
   location         : "Lucca, Italy"
   employer         :
