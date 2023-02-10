@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Chemical Engineering, University of Washington, 2017
+  * minor in Math
+* M.S. in Advanced Chemical Engineering, Imperial College London, 2019
+  * Process system engineering
+  * Best Performance in Research Project
+  * 3rd in Overall Performance (Course + Project)
+* Ph.D student in System Science, School for Advanced Studies (Current)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+[comment]: <> (Work experience)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+[comment]: <> (======)
+
+[comment]: <> (* Summer 2015: Research Assistant)
+
+[comment]: <> (  * Github University)
+
+[comment]: <> (  * Duties included: Tagging issues)
+
+[comment]: <> (  * Supervisor: Professor Git)
+
+[comment]: <> (* Fall 2015: Research Assistant)
+
+[comment]: <> (  * Github University)
+
+[comment]: <> (  * Duties included: Merging pull requests)
+
+[comment]: <> (  * Supervisor: Professor Hub)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming language: Python, MATLAB
+* Scientific software: GAMS, gPROMS, Aspen Plus, Aspen HYSYS
 
 Publications
 ======
@@ -48,12 +56,16 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[comment]: <> (Teaching)
+
+[comment]: <> (======)
+
+[comment]: <> (  <ul>{% for post in site.teaching %})
+
+[comment]: <> (    {% include archive-single-cv.html %})
+
+[comment]: <> (  {% endfor %}</ul>)
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer: T-ITS, COAP, ACC 2022, ACC 2023

@@ -7,7 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome to my homepage! I'm Mengjia.
 
-Mengjia Zhu received the B.S. degree in chemical engineering from the University of Washington, Seattle, WA, USA, in 2017 and the M.S. degree in chemical engineering from the Imperial College London, UK, in 2019 under the supersivion of [Prof. Sandro Macchietto](https://www.imperial.ac.uk/people/s.macchietto). She is currently pursuing the Ph.D. degree in systems science in the [DYSCO research unit](http://dysco.imtlucca.it/) supervised by [Prof. Alberto Bemporad](http://cse.lab.imtlucca.it/~bemporad/) at the IMT School for Advanced Studies Lucca, Italy.
+I am a PhD student in systems science in the [DYSCO research unit](http://dysco.imtlucca.it/) supervised by [Prof. Alberto Bemporad](http://cse.lab.imtlucca.it/~bemporad/) at the IMT School for Advanced Studies Lucca, Italy.
 
-Her current research interests include black-box optimization and control, with particular emphasis on active, preference, and safe learning.
+I received my bachelor degree in chemical engineering from the University of Washington, Seattle, WA, USA, in 2017 and my master degree in advanced chemical engineering with process system engineering from the Imperial College London, UK, in 2019 under the supersivion of [Prof. Sandro Macchietto](https://www.imperial.ac.uk/people/s.macchietto). 
+
+My current research interests include black-box optimization and control, with particular emphasis on active, preference, and safe learning.
+
+### Updates:
+
+- [Feb-10-2023] Check out our paper "Global and Preference-based Optimization with Mixed Variables using Piecewise Affine Surrogates " on [arXiv](TODO)
+    
+  - code is availalbe at [PWAS](https://github.com/mjzhu-p/PWAS)
+
+- [Jan-23-2023] The GLIS package is now available via pip install! Check it out at [GLIS](https://github.com/bemporad/GLIS)
+
+- [Sept-26-2022] Check out our paper "Learning Critical Scenarios in Feedback Control Systems for Automated Driving" on [arXiv](https://arxiv.org/abs/2209.12586)
+
+- [Sept-2022] [C-GLISp paper](https://ieeexplore.ieee.org/abstract/document/9667199) is published in IEEE TCST
+
+  - code is available at [GLIS/GLISp/C-GLISp](http://cse.lab.imtlucca.it/~bemporad/glis/)
