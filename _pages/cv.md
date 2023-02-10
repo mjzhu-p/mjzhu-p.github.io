@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,8 +14,7 @@ Education
   * minor in Math
 * M.S. in Advanced Chemical Engineering, Imperial College London, 2019
   * Process system engineering
-  * Best Performance in Research Project
-  * 3rd in Overall Performance (Course + Project)
+  * Best Performance in Research Project, 3rd in Overall Performance (Course + Project)
 * Ph.D student in System Science, School for Advanced Studies (Current)
 
 [comment]: <> (Work experience)

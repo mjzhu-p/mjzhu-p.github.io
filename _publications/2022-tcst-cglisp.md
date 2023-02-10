@@ -1,15 +1,7 @@
 ---
-title: "Paper Title Number 2"
+title: "C-GLISp: Preference-Based Global Optimization Under Unknown Constraints With Applications to Controller Calibration"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2022-09-01
+venue: 'IEEE Transactions on Control Systems Technology'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Mengjia Zhu, Dario Piga, Alberto Bemporad [paper-link](https://doi.org/https://doi.org/10.1109/TCST.2021.3136711), [pdf](http://mjzhu-p.github.io/files/2022-tcst-cglisp.pdf)
