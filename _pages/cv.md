@@ -17,53 +17,32 @@ Education
   * Best Performance in Research Project, 3rd in Overall Performance (Course + Project)
 * Ph.D student in System Science, School for Advanced Studies (Current)
 
-[comment]: <> (Work experience)
 
-[comment]: <> (======)
+<br>
 
-[comment]: <> (* Summer 2015: Research Assistant)
-
-[comment]: <> (  * Github University)
-
-[comment]: <> (  * Duties included: Tagging issues)
-
-[comment]: <> (  * Supervisor: Professor Git)
-
-[comment]: <> (* Fall 2015: Research Assistant)
-
-[comment]: <> (  * Github University)
-
-[comment]: <> (  * Duties included: Merging pull requests)
-
-[comment]: <> (  * Supervisor: Professor Hub)
-  
 Skills
 ======
 * Programming language: Python, MATLAB
 * Scientific software: GAMS, gPROMS, Aspen Plus, Aspen HYSYS
+
+<br>
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<br>
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-[comment]: <> (Teaching)
 
-[comment]: <> (======)
+<br> 
 
-[comment]: <> (  <ul>{% for post in site.teaching %})
-
-[comment]: <> (    {% include archive-single-cv.html %})
-
-[comment]: <> (  {% endfor %}</ul>)
-  
 Service
 ======
 * Reviewer: T-ITS, COAP, ACC 2022, ACC 2023
