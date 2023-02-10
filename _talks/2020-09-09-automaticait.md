@@ -2,7 +2,6 @@
 title: "Preference-based MPC calibration"
 collection: talks
 type: "Workshop"
-permalink: /talks/2020-09-09-automaticait
 venue: "AUTOMATICA.IT 2020"
 date: 2020-09-09
 location: "Virtual"

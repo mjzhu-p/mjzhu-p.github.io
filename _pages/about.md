@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my homepage! I'm Mengjia."
+title: "Welcome to my homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+I'm Mengjia (梦佳), a PhD student in Systems Science in the [DYSCO research unit](http://dysco.imtlucca.it/) supervised by [Prof. Alberto Bemporad](http://cse.lab.imtlucca.it/~bemporad/) at the IMT School for Advanced Studies Lucca, Italy.
 
-I am a PhD student in systems science in the [DYSCO research unit](http://dysco.imtlucca.it/) supervised by [Prof. Alberto Bemporad](http://cse.lab.imtlucca.it/~bemporad/) at the IMT School for Advanced Studies Lucca, Italy.
-
-I received my bachelor degree in chemical engineering from the University of Washington, Seattle, WA, USA, in 2017 and my master degree in advanced chemical engineering with process system engineering from the Imperial College London, UK, in 2019 under the supersivion of [Prof. Sandro Macchietto](https://www.imperial.ac.uk/people/s.macchietto). 
+I received my bachelor degree in Chemical Engineering from the University of Washington, Seattle, WA, USA, in 2017 and my master degree in Advanced Chemical Engineering with Process System Engineering from the Imperial College London, UK, in 2019 under the supersivion of [Prof. Sandro Macchietto](https://www.imperial.ac.uk/people/s.macchietto). 
 
 My current research interests include black-box optimization and control, with particular emphasis on active, preference, and safe learning.
 
