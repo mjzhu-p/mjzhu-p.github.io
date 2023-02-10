@@ -16,7 +16,7 @@ My current research interests include black-box optimization and control, with p
 
 ### Updates:
 
-- [Feb-10-2023] Check out our paper "Global and Preference-based Optimization with Mixed Variables using Piecewise Affine Surrogates " on [arXiv](TODO)
+- [Feb-10-2023] Check out our paper "Global and Preference-based Optimization with Mixed Variables using Piecewise Affine Surrogates " on [arXiv](https://arxiv.org/abs/2302.04686)
     
   - code is availalbe at [PWAS](https://github.com/mjzhu-p/PWAS)
 
