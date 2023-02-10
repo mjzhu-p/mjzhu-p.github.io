@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome to my homepage! I'm Mengjia."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Welcome to my homepage! I'm Mengjia.
+
 
 I am a PhD student in systems science in the [DYSCO research unit](http://dysco.imtlucca.it/) supervised by [Prof. Alberto Bemporad](http://cse.lab.imtlucca.it/~bemporad/) at the IMT School for Advanced Studies Lucca, Italy.
 
