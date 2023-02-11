@@ -53,11 +53,14 @@ Publications
 *  <ins>M. Zhu</ins>, FL. Santamaria, S. Macchietto, "A general dynamic model of a complete milk pasteuriser unit subject to fouling," in Computer Aided Chemical Engineering, vol. 48, pp. 247-252, 2020. [paper-link](https://doi.org/10.1016/B978-0-12-823377-1.50042-2), [pdf](http://mjzhu-p.github.io/files/2020-escape30.pdf)
 
 
+<br> 
+
 Talks
 ======
 *  [2020-09-09] "Preference-based MPC calibration", *AUTOMATICA.IT 2020 Workshop*, virtual. [video](https://www.youtube.com/watch?v=J79HyVckgGI&list=PLV8CpiXfiXsBe13_vgyfFWCYQo20U313C&index=2&t=1210s)
 
 *  [2019-09-12] "A general dynamic model of a complete milk pasteurizer unit with fouling and CIP models integrated", *DYSCO seminar*, IMT Lucca, Lucca, Italy. [webpage](https://www.imtlucca.it/en/eventonew/general-dynamic-model-of-complete-milk-pasteurizer-unit-with-fouling-and-cip-models)
+
 
 <br> 
 
