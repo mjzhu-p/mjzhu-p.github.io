@@ -38,13 +38,11 @@ Publications
 
 *  L. Cannelli, <ins>M. Zhu</ins>, F. Farina, A. Bemporad, and D. Piga, “Multi-agent active learning for distributed black-box optimization,” 2022, Submitted for publication.
 
-<br>
 
 ### ACCEPTED
 
 *  A. Molin, E. Aguilar, D. Nickovic, <ins>M. Zhu</ins>, A. Bemporad, and H. Esen, “Speciﬁcation-guided critical scenario identiﬁcation for automated driving,” 25th International Symposium on Formal Methods, 2023. [link](https://fm2023.isp.uni-luebeck.de/)
 
-<br>
 
 ### PAPERS
 
@@ -54,7 +52,6 @@ Publications
 
 *  <ins>M. Zhu</ins>, FL. Santamaria, S. Macchietto, "A general dynamic model of a complete milk pasteuriser unit subject to fouling," in Computer Aided Chemical Engineering, vol. 48, pp. 247-252, 2020. [paper-link](https://doi.org/10.1016/B978-0-12-823377-1.50042-2), [pdf](http://mjzhu-p.github.io/files/2020-escape30.pdf)
 
-<br>
 
 Talks
 ======
