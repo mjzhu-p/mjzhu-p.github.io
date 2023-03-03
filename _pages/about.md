@@ -15,6 +15,7 @@ I received my bachelor degree in Chemical Engineering from the University of Was
 My current research interests include black-box optimization and control, with particular emphasis on active, preference, and safe learning.
 
 ### Updates:
+- [March-03-2023] Check out the updated MATLAB version of [GLIS](https://github.com/bemporad/GLIS_MATLAB)
 
 - [Feb-10-2023] Check out our paper "Global and Preference-based Optimization with Mixed Variables using Piecewise Affine Surrogates " on [arXiv](https://arxiv.org/abs/2302.04686)
     
