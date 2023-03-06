@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <br>
+[2021-06-30] "Preference-based MPC calibration", *European Control Conference* (ECC 21), virtual. [webpage](https://ecc21.euca-ecc.org/index.html)
 
 [2020-09-09] "Preference-based MPC calibration", *AUTOMATICA.IT 2020 Workshop*, virtual. [video](https://www.youtube.com/watch?v=J79HyVckgGI&list=PLV8CpiXfiXsBe13_vgyfFWCYQo20U313C&index=2&t=1210s)
 
