@@ -41,10 +41,10 @@ Publications
 
 ### ACCEPTED
 
-*  A. Molin, E. Aguilar, D. Nickovic, <ins>M. Zhu</ins>, A. Bemporad, and H. Esen, “Speciﬁcation-guided critical scenario identiﬁcation for automated driving,” 25th International Symposium on Formal Methods, 2023. [link](https://fm2023.isp.uni-luebeck.de/)
 
 
 ### PAPERS
+*  A. Molin, E. Aguilar, D. Nickovic, <ins>M. Zhu</ins>, A. Bemporad, and H. Esen, “Speciﬁcation-guided critical scenario identiﬁcation for automated driving,” 25th International Symposium on Formal Methods, 2023. [paper-link](https://doi.org/10.1007/978-3-031-27481-7_35), [pdf](https://arxiv.org/pdf/2303.05139.pdf)
 
 *  <ins>M. Zhu</ins>, D. Piga, and A. Bemporad, “C-GLISp: Preference-based global optimization under unknown constraints with applications to controller calibration,” IEEE Trans. Contr. Systems Technology, vol. 30, no. 3, pp. 2176–2187, Sept. 2022. [paper-link](https://doi.org/https://doi.org/10.1109/TCST.2021.3136711), [pdf](http://mjzhu-p.github.io/files/2022-tcst-cglisp.pdf), [code](https://github.com/bemporad/GLIS)
 
