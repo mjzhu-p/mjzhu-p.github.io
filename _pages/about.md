@@ -15,6 +15,10 @@ I received my bachelor degree in Chemical Engineering from the University of Was
 My current research interests include black-box optimization and control, with particular emphasis on active, preference, and safe learning.
 
 ### Updates:
+- [April-25-2023] Our paper "Multi-agent active learning for distributed black-box optimization" is accepted by IEEE Control Systems Letters.
+  
+  - [Early Access](https://ieeexplore.ieee.org/document/10107979), [pdf](http://mjzhu-p.github.io/files/2023-dglis-lcss.pdf), [code](https://leon.idsia.ch/lib_download)
+
 - [March-05-2023] Our paper "Speciﬁcation-guided critical scenario identiﬁcation for automated driving" is available [online](https://doi.org/10.1007/978-3-031-27481-7_35) now, also available on [arXiv](https://arxiv.org/pdf/2303.05139.pdf)
   
   - Adam will present it at the 25th International Symposium on Formal Methods (FM 23) on March 8th, [link](https://fm2023.isp.uni-luebeck.de/)

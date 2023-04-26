@@ -39,7 +39,7 @@ Publications
 
 
 ### ACCEPTED
-*  L. Cannelli, <ins>M. Zhu</ins>, F. Farina, A. Bemporad, and D. Piga, “Multi-agent active learning for distributed black-box optimization,” IEEE Control Systems Letters, 2023, In press. [Early Access](https://ieeexplore.ieee.org/document/10107979), [pdf](http://mjzhu-p.github.io/files/2023-dglis-lcss.pdf)
+*  L. Cannelli, <ins>M. Zhu</ins>, F. Farina, A. Bemporad, and D. Piga, “Multi-agent active learning for distributed black-box optimization,” IEEE Control Systems Letters, 2023, In press. [Early Access](https://ieeexplore.ieee.org/document/10107979), [pdf](http://mjzhu-p.github.io/files/2023-dglis-lcss.pdf), [code](https://leon.idsia.ch/lib_download)
 
 
 
