@@ -17,11 +17,10 @@ Publications
 
 <ins>M. Zhu</ins>, A. Bemporad, M. Kneissl, and H. Esen, “Learning critical scenarios in feedback control systems for automated driving,” 2022, Submitted for publication. [arXiv](https://arxiv.org/pdf/2209.12586)
 
-L. Cannelli, <ins>M. Zhu</ins>, F. Farina, A. Bemporad, and D. Piga, “Multi-agent active learning for distributed black-box optimization,” 2022, Submitted for publication.
 
 
 ### ACCEPTED
-
+L. Cannelli, <ins>M. Zhu</ins>, F. Farina, A. Bemporad, and D. Piga, “Multi-agent active learning for distributed black-box optimization,” IEEE Control Systems Letters, 2023, In press. [Early Access](https://ieeexplore.ieee.org/document/10107979), [pdf](http://mjzhu-p.github.io/files/2023-dglis-lcss.pdf)
 
 ### PAPERS
 A. Molin, E. Aguilar, D. Nickovic, <ins>M. Zhu</ins>, A. Bemporad, and H. Esen, “Speciﬁcation-guided critical scenario identiﬁcation for automated driving,” 25th International Symposium on Formal Methods, 2023. [paper-link](https://doi.org/10.1007/978-3-031-27481-7_35), [pdf](https://arxiv.org/pdf/2303.05139.pdf)
