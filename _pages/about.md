@@ -17,7 +17,7 @@ My current research interests include black-box optimization and control, with p
 ### Updates:
 - [April-25-2023] Our paper "Multi-agent active learning for distributed black-box optimization" is accepted by IEEE Control Systems Letters.
   
-  - [Early Access](https://ieeexplore.ieee.org/document/10107979), [pdf](http://mjzhu-p.github.io/files/2023-dglis-lcss.pdf), [code](https://leon.idsia.ch/lib_download)
+  - [paper-link](https://ieeexplore.ieee.org/document/10107979), [pdf](http://mjzhu-p.github.io/files/2023-dglis-lcss.pdf), [code](https://leon.idsia.ch/lib_download)
 
 - [March-05-2023] Our paper "Speciﬁcation-guided critical scenario identiﬁcation for automated driving" is available [online](https://doi.org/10.1007/978-3-031-27481-7_35) now, also available on [arXiv](https://arxiv.org/pdf/2303.05139.pdf)
   
