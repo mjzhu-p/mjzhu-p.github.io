@@ -15,7 +15,9 @@ I received my bachelor degree in Chemical Engineering from the University of Was
 My current research interests include black-box optimization and control, with particular emphasis on active, preference, and safe learning.
 
 ### Updates:
-- [April-25-2023] Our paper "Multi-agent active learning for distributed black-box optimization" is accepted by IEEE Control Systems Letters.
+- [July-13-2023] Our paper “Learning critical scenarios in feedback control systems for automated driving” has been accpeted by [ITSC 2023](https://2023.ieee-itsc.org/), also available on [arXiv](https://arxiv.org/pdf/2209.12586)
+
+- [April-25-2023] Our paper "Multi-agent active learning for distributed black-box optimization" has been accepted by IEEE Control Systems Letters.
   
   - [paper-link](https://ieeexplore.ieee.org/document/10107979), [pdf](http://mjzhu-p.github.io/files/2023-dglis-lcss.pdf), [code](https://leon.idsia.ch/lib_download)
 

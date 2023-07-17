@@ -15,11 +15,12 @@ Publications
 
 <ins>M. Zhu</ins> and A. Bemporad, “Global and preference-based optimization with mixed variables using piecewise aﬃne surrogates,” 2023, Submitted for publication. [arXiv](https://arxiv.org/abs/2302.04686), [code](https://github.com/mjzhu-p/PWAS)
 
-<ins>M. Zhu</ins>, A. Bemporad, M. Kneissl, and H. Esen, “Learning critical scenarios in feedback control systems for automated driving,” 2022, Submitted for publication. [arXiv](https://arxiv.org/pdf/2209.12586)
 
 
 
 ### ACCEPTED
+<ins>M. Zhu</ins>, A. Bemporad, M. Kneissl, and H. Esen, “Learning critical scenarios in feedback control systems for automated driving,” in IEEE 26th Int. Conf. on Intelligent Transportation Systems (ITSC), Bilbao, Bizkaia, Spain, Sept. 2023. [arXiv](https://arxiv.org/pdf/2209.12586)
+
 
 ### PAPERS
 L. Cannelli, <ins>M. Zhu</ins>, F. Farina, A. Bemporad, and D. Piga, “Multi-agent active learning for distributed black-box optimization,” IEEE Control Systems Letters, vol. 7, pp. 1488–1493, 2023.. [paper-link](https://ieeexplore.ieee.org/document/10107979), [pdf](http://mjzhu-p.github.io/files/2023-dglis-lcss.pdf), [code](https://leon.idsia.ch/lib_download)
