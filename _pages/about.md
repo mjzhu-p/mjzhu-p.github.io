@@ -15,7 +15,7 @@ I received my bachelor degree in Chemical Engineering from the University of Was
 My current research interests include black-box optimization and control, with particular emphasis on active, preference, and safe learning.
 
 ### Updates:
-- [Sept-28-2023] Presented our paper “Learning critical scenarios in feedback control systems for automated driving” at [ITSC 2023](https://2023.ieee-itsc.org/), [slides]((http://mjzhu-p.github.io/files/2023-itsc_168_red.pdf))
+- [Sept-28-2023] Presented our paper “Learning critical scenarios in feedback control systems for automated driving” at [ITSC 2023](https://2023.ieee-itsc.org/), [slides](http://mjzhu-p.github.io/files/2023-itsc_168_red.pdf)
 
 - [August-23-2023] I am starting my visiting period at the [*Optimisation and Machine Learning for Process Engineering*](https://www.imperial.ac.uk/optimisation-and-machine-learning-for-process-engineering/about-us/) group under the supervision of [Dr. Ehecatl Antonio del Río Chanona](https://www.imperial.ac.uk/people/a.del-rio-chanona) in the Department of Chemical Engineering at Imperial College London. Thanks for hosting me here! 
 
