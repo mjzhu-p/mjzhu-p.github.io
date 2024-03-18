@@ -20,7 +20,8 @@ Education
 * M.S. in Advanced Chemical Engineering, Imperial College London, 2019
   * Process system engineering
   * Best Performance in Research Project, 3rd in Overall Performance (Course + Project)
-* Ph.D student in System Science, IMT School for Advanced Studies (Current)
+* Ph.D student in System Science, IMT School for Advanced Studies, _expected to defend the thesis in June, 2024_
+  * Erasmus+ traineeship at Department of Chemical Engineering, Imperial College London, 08/2023 - 01/2024
 
 
 <br>
