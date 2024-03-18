@@ -8,6 +8,9 @@ author_profile: true
 {% include base_path %}
 
 <br>
+
+[2024-01-31] "Preference-based optimization", *IPSE Seminar*, University of Surrey. 
+
 [2023-09-28] “Learning critical scenarios in feedback control systems for automated driving”, *26th IEEE International Conference on Intelligent Transportation Systems* (ITSC 2023), Bilbao, Bizkaia, Spain. [webpage](https://2023.ieee-itsc.org/), [slides](http://mjzhu-p.github.io/files/2023-itsc_168_red.pdf)
 
 [2021-06-30] "Preference-based MPC calibration", *European Control Conference* (ECC 21), virtual. [webpage](https://ecc21.euca-ecc.org/index.html)

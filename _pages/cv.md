@@ -8,6 +8,11 @@ redirect_from:
 
 {% include base_path %}
 
+Work Experience
+======
+* PDRA, Department of Chemical Engineering, University of Manchester, 03/2024 - Present
+
+
 Education
 ======
 * B.S. in Chemical Engineering, University of Washington, 2017
@@ -37,11 +42,12 @@ Publications
 
 
 ### ACCEPTED
-*  <ins>M. Zhu</ins>, A. Bemporad, M. Kneissl, and H. Esen, “Learning critical scenarios in feedback control systems for automated driving,” in IEEE 26th Int. Conf. on Intelligent Transportation Systems (ITSC), Bilbao, Bizkaia, Spain, Sept. 2023. [arXiv](https://arxiv.org/pdf/2209.12586)
 
 
 
 ### PAPERS
+*  <ins>M. Zhu</ins>, A. Bemporad, M. Kneissl, and H. Esen, “Learning critical scenarios in feedback control systems for automated driving,” in IEEE 26th Int. Conf. on Intelligent Transportation Systems (ITSC), Bilbao, Bizkaia, Spain, Sept. 2023. [paper-link](https://ieeexplore.ieee.org/document/10421978), [pdf](https://arxiv.org/pdf/2209.12586)
+
 *  L. Cannelli, <ins>M. Zhu</ins>, F. Farina, A. Bemporad, and D. Piga, “Multi-agent active learning for distributed black-box optimization,” IEEE Control Systems Letters, vol. 7, pp. 1488–1493, 2023. [paper-link](https://ieeexplore.ieee.org/document/10107979), [pdf](http://mjzhu-p.github.io/files/2023-dglis-lcss.pdf), [code](https://leon.idsia.ch/lib_download)
 
 *  A. Molin, E. Aguilar, D. Nickovic, <ins>M. Zhu</ins>, A. Bemporad, and H. Esen, “Speciﬁcation-guided critical scenario identiﬁcation for automated driving,” 25th International Symposium on Formal Methods, 2023. [paper-link](https://doi.org/10.1007/978-3-031-27481-7_35), [pdf](https://arxiv.org/pdf/2303.05139.pdf)
