@@ -17,6 +17,9 @@ I received my bachelor degree in Chemical Engineering from the University of Was
 My current research interests include black-box optimization and control, with particular emphasis on active, preference, and safe learning.
 
 ### Updates:
+- [April-23-2024] Check out our paper "Discrete and mixed-variable experimental design with surrogate-based approach" on [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6626a713418a5379b0674df2)
+  - code is available at [ExpDesign](https://github.com/MolChemML/ExpDesign)
+
 - [March-04-2024] I am starting my PDRA position at UoM under the supervision of [Dr. Dongda Zhang](https://research.manchester.ac.uk/en/persons/dongda.zhang). The PDRA is funded by the following EPSRC Grant: Artificial Intelligence Enabling Future Optimal Flexible Biogas Production for Net-Zero [(EP/Y005600/1)](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y005600/1). 
 
 - [Sept-28-2023] Presented our paper “Learning critical scenarios in feedback control systems for automated driving” at [ITSC 2023](https://2023.ieee-itsc.org/), [slides](http://mjzhu-p.github.io/files/2023-itsc_168_red.pdf)
