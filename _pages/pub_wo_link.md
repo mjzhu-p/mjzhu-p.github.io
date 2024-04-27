@@ -13,6 +13,8 @@ Publications
 
 ### SUBMITTED
 
+<ins>M. Zhu</ins>, A.  Mroz, L. Gui, K. Jelfs, A. Bemporad, EA. del Río Chanona, and Y. Lee, "Discrete and mixed-variable experimental design with surrogate-based approach," 2024, Submitted for publication. [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6626a713418a5379b0674df2), [code](https://github.com/MolChemML/ExpDesign) 
+
 <ins>M. Zhu</ins> and A. Bemporad, “Global and preference-based optimization with mixed variables using piecewise aﬃne surrogates,” 2023, Submitted for publication. [arXiv](https://arxiv.org/abs/2302.04686), [code](https://github.com/mjzhu-p/PWAS)
 
 
