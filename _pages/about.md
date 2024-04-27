@@ -44,5 +44,4 @@ My current research interests include black-box optimization and control, with p
 - [Sept-26-2022] Check out our paper "Learning Critical Scenarios in Feedback Control Systems for Automated Driving" on [arXiv](https://arxiv.org/abs/2209.12586)
 
 - [Sept-2022] [C-GLISp paper](https://ieeexplore.ieee.org/abstract/document/9667199) is published in IEEE TCST
-
   - Code is available at [GLIS/GLISp/C-GLISp](http://cse.lab.imtlucca.it/~bemporad/glis/)
