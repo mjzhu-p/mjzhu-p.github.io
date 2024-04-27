@@ -18,7 +18,7 @@ My current research interests include black-box optimization and control, with p
 
 ### Updates:
 - [April-23-2024] Check out our paper "Discrete and mixed-variable experimental design with surrogate-based approach" on [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6626a713418a5379b0674df2)
-  - code is available at [ExpDesign](https://github.com/MolChemML/ExpDesign)
+  - Code is available at [ExpDesign](https://github.com/MolChemML/ExpDesign)
 
 - [March-04-2024] I am starting my PDRA position at UoM under the supervision of [Dr. Dongda Zhang](https://research.manchester.ac.uk/en/persons/dongda.zhang). The PDRA is funded by the following EPSRC Grant: Artificial Intelligence Enabling Future Optimal Flexible Biogas Production for Net-Zero [(EP/Y005600/1)](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y005600/1). 
 
@@ -29,18 +29,15 @@ My current research interests include black-box optimization and control, with p
 - [July-13-2023] Our paper “Learning critical scenarios in feedback control systems for automated driving” has been accpeted by [ITSC 2023](https://2023.ieee-itsc.org/), also available on [arXiv](https://arxiv.org/pdf/2209.12586)
 
 - [April-25-2023] Our paper "Multi-agent active learning for distributed black-box optimization" has been accepted by IEEE Control Systems Letters.
-  
   - [paper-link](https://ieeexplore.ieee.org/document/10107979), [pdf](http://mjzhu-p.github.io/files/2023-dglis-lcss.pdf), [code](https://leon.idsia.ch/lib_download)
 
 - [March-05-2023] Our paper "Speciﬁcation-guided critical scenario identiﬁcation for automated driving" is available [online](https://doi.org/10.1007/978-3-031-27481-7_35) now, also available on [arXiv](https://arxiv.org/pdf/2303.05139.pdf)
-  
   - Adam will present it at the 25th International Symposium on Formal Methods (FM 23) on March 8th, [link](https://fm2023.isp.uni-luebeck.de/)
 
 - [March-03-2023] Check out the updated MATLAB version of [GLIS](https://github.com/bemporad/GLIS_MATLAB)
 
 - [Feb-10-2023] Check out our paper "Global and Preference-based Optimization with Mixed Variables using Piecewise Affine Surrogates " on [arXiv](https://arxiv.org/abs/2302.04686)
-    
-  - code is availalbe at [PWAS](https://github.com/mjzhu-p/PWAS)
+  - Code is availalbe at [PWAS](https://github.com/mjzhu-p/PWAS)
 
 - [Jan-23-2023] The GLIS package is now available via pip install! Check it out at [GLIS](https://github.com/bemporad/GLIS)
 
@@ -48,4 +45,4 @@ My current research interests include black-box optimization and control, with p
 
 - [Sept-2022] [C-GLISp paper](https://ieeexplore.ieee.org/abstract/document/9667199) is published in IEEE TCST
 
-  - code is available at [GLIS/GLISp/C-GLISp](http://cse.lab.imtlucca.it/~bemporad/glis/)
+  - Code is available at [GLIS/GLISp/C-GLISp](http://cse.lab.imtlucca.it/~bemporad/glis/)
