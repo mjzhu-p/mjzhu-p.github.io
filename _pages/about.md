@@ -17,6 +17,7 @@ I received my bachelor degree in Chemical Engineering from the University of Was
 My current research interests include black-box optimization and control, with particular emphasis on active, preference, and safe learning.
 
 ### Updates:
+<div class="scrollable">
 - [May-30-2024] I successfully defended my thesis :)
   - Thesis available at [e-theses](https://e-theses.imtlucca.it/415/), [slides](http://mjzhu-p.github.io/files/2024_thesisDefense.pdf)
   
@@ -48,3 +49,5 @@ My current research interests include black-box optimization and control, with p
 
 - [Sept-2022] [C-GLISp paper](https://ieeexplore.ieee.org/abstract/document/9667199) is published in IEEE TCST
   - Code is available at [GLIS/GLISp/C-GLISp](http://cse.lab.imtlucca.it/~bemporad/glis/)
+
+</div>

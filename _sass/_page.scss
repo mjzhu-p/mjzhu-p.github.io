@@ -399,3 +399,8 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+.scrollable {
+    height: 100px; /* or any value */
+    overflow-y: auto;
+}
