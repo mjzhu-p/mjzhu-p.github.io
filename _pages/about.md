@@ -17,7 +17,7 @@ I received my bachelor degree in Chemical Engineering from the University of Was
 My current research interests include black-box optimization and control, with particular emphasis on active, preference, and safe learning.
 
 ### Updates:
-<div class="scrollable">
+<div class="scrollable" markdown=1>
 
 
 - [May-30-2024] I successfully defended my thesis :)
