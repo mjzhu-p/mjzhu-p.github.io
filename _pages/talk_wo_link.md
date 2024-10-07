@@ -9,7 +9,11 @@ author_profile: true
 
 <br>
 
-[2024-01-31] "Preference-based optimization", *IPSE Seminar*, University of Surrey. 
+[2024-09-17] "Discrete and mixed-variable experimental design with surrogate-based approach", *7th Artificial Intelligence in Chemistry Symposium*, Churchill College, Cambridge, UK. [poster](http://mjzhu-p.github.io/files/2024-P35_zhu.pdf)
+
+[2024-09-06] "Designing robust operational space for bioprocess optimisation under uncertainty", *PSE Research Day*, Imperial College London, London, UK. poster.
+
+[2024-01-31] "Preference-based optimization", *IPSE Seminar*, University of Surrey, Surrey, UK. 
 
 [2023-09-28] “Learning critical scenarios in feedback control systems for automated driving”, *26th IEEE International Conference on Intelligent Transportation Systems* (ITSC 2023), Bilbao, Bizkaia, Spain. [webpage](https://2023.ieee-itsc.org/), [slides](http://mjzhu-p.github.io/files/2023-itsc_168_red.pdf)
 
