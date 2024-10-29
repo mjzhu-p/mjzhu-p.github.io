@@ -7,31 +7,6 @@ redirect_from:
 ---
 {% include base_path %}
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Reference List</title>
-    <style>
-        ol.references {
-            counter-reset: list-counter; /* Initialize a custom counter */
-            padding-left: 0;
-        }
-        ol.references li {
-            counter-increment: list-counter; /* Increment the counter for each item */
-            list-style: none; /* Remove default list styling */
-            margin-bottom: 10px;
-            padding-left: -10px;
-            text-indent: -10px;
-        }
-        ol.references li::before {
-            content: "[" counter(list-counter) "] "; /* Automatically add brackets around the counter */
-            /*font-weight: bold;*/
-            padding-right: 10px;
-            padding-left: 10px;
-        }
-    </style>
-</head>
-
 Publications
 ======
 
