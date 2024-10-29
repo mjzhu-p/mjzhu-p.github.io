@@ -9,7 +9,9 @@ author_profile: true
 
 <br>
 
-[2024-09-17] "Discrete and mixed-variable experimental design with surrogate-based approach", *7th Artificial Intelligence in Chemistry Symposium*, Churchill College, Cambridge, UK. [poster](http://mjzhu-p.github.io/files/2024-P35_zhu.pdf)
+[2024-10-29] "Optimization-based operational space design for effective bioprocess performance under uncertainty", *AI for NetZero Webinars*, online. [video](https://www.youtube.com/watch?v=tTYoxVmPXPc)
+
+[2024-09-17] "Discrete and mixed-variable experimental design with surrogate-based approach", 7th Artificial Intelligence in Chemistry Symposium*, Churchill College, Cambridge, UK. [poster](http://mjzhu-p.github.io/files/2024-P35_zhu.pdf)
 
 [2024-09-06] "Designing robust operational space for bioprocess optimisation under uncertainty", *PSE Research Day*, Imperial College London, London, UK. poster.
 
@@ -22,3 +24,4 @@ author_profile: true
 [2020-09-09] "Preference-based MPC calibration", *AUTOMATICA.IT 2020 Workshop*, virtual. [video](https://www.youtube.com/watch?v=J79HyVckgGI&list=PLV8CpiXfiXsBe13_vgyfFWCYQo20U313C&index=2&t=1210s)
 
 [2019-09-12] "A general dynamic model of a complete milk pasteurizer unit with fouling and CIP models integrated", *DYSCO seminar*, IMT Lucca, Lucca, Italy. [webpage](https://www.imtlucca.it/en/eventonew/general-dynamic-model-of-complete-milk-pasteurizer-unit-with-fouling-and-cip-models)
+
