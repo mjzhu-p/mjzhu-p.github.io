@@ -11,28 +11,6 @@ redirect_from:
 Publications
 ======
 
-<style>
-  ol.references {
-    counter-reset: list-counter; /* Initialize a custom counter */
-    padding-left: 0;
-}
-  ol.references li {
-      counter-increment: list-counter; /* Increment the counter for each item */
-      list-style: none; /* Remove default list styling */
-      margin-bottom: 10px;
-      /*padding-left: 10px;*/
-      text-indent: -10px;
-  }
-  ol.references li::before {
-      content: "[" counter(list-counter) "] "; /* Automatically add brackets around the counter */
-      /*font-weight: bold;*/
-      padding-left: 10px;
-      padding-right: 10px;
-  }
-</style>
-
-<ol class="references">
-
 ### JOURNAL PAPERS (SUBMITTED) 
 1. <ins>M. Zhu</ins> and A. Bemporad, “Global and preference-based optimization with mixed variables using piecewise aﬃne surrogates,” 2023, Submitted for publication. [arXiv](https://arxiv.org/abs/2302.04686), [code](https://github.com/mjzhu-p/PWAS)
 
@@ -75,4 +53,3 @@ IMT School for Advanced Studies Lucca (Scuola IMT Alti Studi Lucca), Lucca, Ital
 
 
 
-</ol>
