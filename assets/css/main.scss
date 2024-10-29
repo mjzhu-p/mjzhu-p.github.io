@@ -39,3 +39,21 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+ol.references {
+    counter-reset: list-counter; /* Initialize a custom counter */
+    padding-left: 0;
+}
+ol.references li {
+    counter-increment: list-counter; /* Increment the counter for each item */
+    list-style: none; /* Remove default list styling */
+    margin-bottom: 10px;
+    /*padding-left: 10px;*/
+    text-indent: -10px;
+}
+ol.references li::before {
+    content: "[" counter(list-counter) "] "; /* Automatically add brackets around the counter */
+    /*font-weight: bold;*/
+    padding-left: 10px;
+    padding-right: 10px;
+}
