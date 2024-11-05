@@ -19,6 +19,8 @@ My current research interests include black-box optimization and control, with p
 ### Updates:
 <div class="scrollable" markdown=1>
 
+- [Oct-22-2024] Our paper "Discrete and mixed-variable experimental design with surrogate-based approach" has been accpeted by Digital Discovery.
+  - [paper-link](https://doi.org/10.1039/D4DD00113C), [code](https://github.com/MolChemML/ExpDesign), [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6626a713418a5379b0674df2)
 
 - [May-30-2024] I successfully defended my thesis :)
   - Thesis available at [e-theses](https://e-theses.imtlucca.it/415/), [slides](http://mjzhu-p.github.io/files/2024_thesisDefense.pdf)
