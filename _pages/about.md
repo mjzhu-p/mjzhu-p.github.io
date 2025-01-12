@@ -19,6 +19,10 @@ My current research interests include black-box optimization and control, with p
 ### Updates:
 <div class="scrollable" markdown=1>
 
+
+- [Dec-11-2024] Our paper "Global and Preference-Based Optimization with Mixed Variables Using Piecewise Affine Surrogates" has been accpeted by Journal of Optimization Theory and Applications.
+  - [paper-link](https://doi.org/10.1007/s10957-024-02596-y), [code](https://github.com/mjzhu-p/PWAS), [arXiv](https://arxiv.org/abs/2302.04686)
+  
 - [Oct-22-2024] Our paper "Discrete and mixed-variable experimental design with surrogate-based approach" has been accpeted by Digital Discovery.
   - [paper-link](https://doi.org/10.1039/D4DD00113C), [code](https://github.com/MolChemML/ExpDesign), [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6626a713418a5379b0674df2)
 
