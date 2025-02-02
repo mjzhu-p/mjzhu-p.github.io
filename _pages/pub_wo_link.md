@@ -13,10 +13,8 @@ Publications
 
 ### JOURNAL PAPERS (SUBMITTED) 
 
-[//]: # (1. <ins>M. Zhu</ins>, O. Pennington, T. Pincam, M. Zarei, S. Kay, Y. Liu, M. Short, and D. Zhang, "A novel bioprocess control strategy under uncertainty via operational space identification," 2024, submitted for publication.)
 1. S. Kay, <ins>M. Zhu</ins>, A. Lane, J. Shaw, P. Martin, and D. Zhang, "A novel approach to identify optimal and flexible operational spaces for product quality control," 2024, submitted for publication.
 
-[//]: # (1. Y. Xiao, <ins>M. Zhu</ins>, C. Chen, D. Tsaoulidis, T. Chen, "Adaptive experimental optimisation via Gaussian process regression with early stopping," 2024, submitted for publication.)
 
 
 
