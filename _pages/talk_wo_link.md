@@ -13,7 +13,7 @@ author_profile: true
 
 [2024-10-29] "Optimization-based operational space design for effective bioprocess performance under uncertainty", *AI for NetZero Webinars*, online. [video](https://www.youtube.com/watch?v=tTYoxVmPXPc)
 
-[2024-09-17] "Discrete and mixed-variable experimental design with surrogate-based approach", 7th Artificial Intelligence in Chemistry Symposium*, Churchill College, Cambridge, UK. [poster](http://mjzhu-p.github.io/files/2024-P35_zhu.pdf)
+[2024-09-17] "Discrete and mixed-variable experimental design with surrogate-based approach", *7th Artificial Intelligence in Chemistry Symposium*, Churchill College, Cambridge, UK. [poster](http://mjzhu-p.github.io/files/2024-P35_zhu.pdf)
 
 [2024-09-06] "Designing robust operational space for bioprocess optimisation under uncertainty", *PSE Research Day*, Imperial College London, London, UK. poster.
 
