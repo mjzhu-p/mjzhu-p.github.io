@@ -12,9 +12,8 @@ Publications
 ======
 
 ### JOURNAL PAPERS (SUBMITTED) 
-
-1. S. Kay, <ins>M. Zhu</ins>, A. Lane, J. Shaw, P. Martin, and D. Zhang, "A novel approach to identify optimal and flexible operational spaces for product quality control," 2024, submitted for publication.
-1. <ins>M. Zhu</ins>, O. Pennington, T. Pincam, M. Zarei, S. Kay, Y. Liu, M. Short, and D. Zhang, "A novel bioprocess control strategy under uncertainty via operational space identification," 2024, submitted for publication.
+1. <ins>M. Zhu</ins>, O. Pennington, T. Pincam, M. Zarei, S. Kay, Y. Liu, M. Short, and D. Zhang, "A novel bioprocess control strategy under uncertainty via operational space identification," 2025, submitted for publication.
+1. S. Kay, <ins>M. Zhu</ins>, A. Lane, J. Shaw, P. Martin, and D. Zhang, "A novel approach to identify optimal and flexible operational spaces for product quality control," 2025, submitted for publication.
 
 
 ### JOURNAL PAPERS (IN PRESS)
@@ -28,11 +27,11 @@ Publications
 
 
 ### CONFERENCE PAPERS (SUBMITTED)
+1. <ins>M. Zhu</ins>, O. Pennington, S. Kay, M. Zarei, M. Short, and D. Zhang, "Optimization-based operational space design for effective bioprocess performance under uncertainty," 2025, submitted for publication.
+1. Y. Xiao, <ins>M. Zhu</ins>, D. Tsaoulidis, T. Chen, "Optimising experimental processes with Gaussian process regression and an early stopping strategy," 2025, submitted for publication.
+1. S. Kay, <ins>M. Zhu</ins>, A. Lane, J. Shaw, P. Martin, and D. Zhang, "Machine learning-aided robust optimisation for identifying optimal operational spaces under uncertainty," 2025, submitted for publication.
+1. M. Zarei, M. Dolat, R. Murali, <ins>M. Zhu</ins>, O. Pennington, D. Zhang, M. Short, "Real-time dynamic optimisation for sustainable biogas production through anaerobic co-digestion with hybrid models," 2025, submitted for publication.
 1. S. Kay, <ins>M. Zhu</ins>, O. Pennington, and D. Zhang, "Machine learning-driven optimisation of operational spaces for uncertainty management in process industries," accepted, in 14th IFAC Symposium on Dynamics and Control of Process Systems, including Biosystems (DYCOPS 2025), Bratislava, Slovakia, 2025.
-1. <ins>M. Zhu</ins>, O. Pennington, S. Kay, M. Zarei, M. Short, and D. Zhang, "Optimization-based operational space design for effective bioprocess performance under uncertainty," 2024, submitted for publication.
-1. Y. Xiao, <ins>M. Zhu</ins>, D. Tsaoulidis, T. Chen, "Optimising experimental processes with Gaussian process regression and an early stopping strategy," 2024, submitted for publication.
-1. S. Kay, <ins>M. Zhu</ins>, A. Lane, J. Shaw, P. Martin, and D. Zhang, "Machine learning-aided robust optimisation for identifying optimal operational spaces under uncertainty," 2024, submitted for publication.
-1. M. Zarei, M. Dolat, R. Murali, <ins>M. Zhu</ins>, O. Pennington, D. Zhang, M. Short, "Real-time dynamic optimisation for sustainable biogas production through anaerobic co-digestion with hybrid models," 2024, submitted for publication.
 
 ### CONFERENCE PAPERS
 1. <ins>M. Zhu</ins>, A. Bemporad, M. Kneissl, and H. Esen, “Learning critical scenarios in feedback control systems for automated driving,” in IEEE 26th Int. Conf. on Intelligent Transportation Systems (ITSC), Bilbao, Bizkaia, Spain, 2023. [paper-link](https://ieeexplore.ieee.org/document/10421978), [pdf](https://arxiv.org/pdf/2209.12586)
