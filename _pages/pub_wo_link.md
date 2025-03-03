@@ -13,11 +13,10 @@ Publications
 
 ### JOURNAL PAPERS (SUBMITTED) 
 1. <ins>M. Zhu</ins>, O. Pennington, T. Pincam, M. Zarei, S. Kay, Y. Liu, M. Short, and D. Zhang, "A novel bioprocess control strategy under uncertainty via operational space identification," 2025, submitted for publication.
-1. S. Kay, <ins>M. Zhu</ins>, A. Lane, J. Shaw, P. Martin, and D. Zhang, "A novel approach to identify optimal and flexible operational spaces for product quality control," 2025, submitted for publication.
 
 
 ### JOURNAL PAPERS (IN PRESS)
-
+1. S. Kay, <ins>M. Zhu</ins>, A. Lane, J. Shaw, P. Martin, and D. Zhang, "A novel approach to identify optimal and flexible operational spaces for product quality control," Chemical Engineering Science, 2025, in press. [paper-link](https://doi.org/10.1016/j.ces.2025.121429)
 
 ### JOURNAL PAPERS
 1. <ins>M. Zhu</ins> and A. Bemporad, “Global and preference-based optimization with mixed variables using piecewise aﬃne surrogates,” Journal of Optimization Theory and Applications, vol. 204, no. 26, 2025. [paper-link](https://doi.org/10.1007/s10957-024-02596-y), [code](https://github.com/mjzhu-p/PWAS), [arXiv](https://arxiv.org/abs/2302.04686)
