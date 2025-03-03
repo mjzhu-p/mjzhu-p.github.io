@@ -47,7 +47,7 @@ Publications
 ### THESES
 1. <ins>M. Zhu</ins>, "Global and preference-based optimization using surrogate-based methods", Ph.D. dissertation, Systems Science, Track in Computer Science and Systems Engineering, 
 IMT School for Advanced Studies Lucca (Scuola IMT Alti Studi Lucca), Lucca, Italy, May 2024. [pdf](https://e-theses.imtlucca.it/415/1/ZhuMengjia_Thesis_final%20version.pdf)
-2. <ins>M. Zhu</ins>, "A general dynamic model of a complete milk pasteuriser unit subject to fouling," MSc. thesis, Imperial College London, London, UK, September 2018.
+2. <ins>M. Zhu</ins>, "A general dynamic model of a complete milk pasteuriser unit subject to fouling," MSc. thesis, Imperial College London, London, UK, September 2019. [pdf](https://mjzhu-p.github.io/files/2019-ZhuMengjia_masterThesis.pdf)
 
 
 
