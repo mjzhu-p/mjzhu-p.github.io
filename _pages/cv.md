@@ -15,12 +15,12 @@ Work Experience
   * Department of Chemical Engineering 
   * Supervisor: [Dr. Dongda Zhang](https://research.manchester.ac.uk/en/persons/dongda.zhang)
   * Project: _A Novel Bioprocess Control Strategy Under Uncertainty via Operational Space Identification_
-  * Funded by Engineering and Physical Sciences Research Council [grant number EP/Y005600/1](https://gtr.ukri.org/projects?ref=EP%2FY005600%2F1)
+  * Funded by Engineering and Physical Sciences Research Council [[grant number EP/Y005600/1]](https://gtr.ukri.org/projects?ref=EP%2FY005600%2F1)
 
 
 Education
 ======
-* [**Scuola IMT Alti Studi Lucca** (IMT School for Advanced Studies Lucca)](https://www.imtlucca.it/en), Lucca, Italy
+* **Scuola IMT Alti Studi Lucca** (IMT School for Advanced Studies Lucca), Lucca, Italy
   * _Ph.D. in Systems Science, 2024_
   * Thesis title: [_Global and preference-based optimization using surrogate-based method_](https://e-theses.imtlucca.it/415/1/ZhuMengjia_Thesis_final%20version.pdf)
   * Supervisor: [Prof. Alberto Bemporad](http://cse.lab.imtlucca.it/~bemporad/)
