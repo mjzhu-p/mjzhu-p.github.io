@@ -26,10 +26,10 @@ Publications
 
 
 ### CONFERENCE PAPERS (SUBMITTED)
-1. <ins>M. Zhu</ins>, O. Pennington, S. Kay, M. Zarei, M. Short, and D. Zhang, "Optimization-based operational space design for effective bioprocess performance under uncertainty," 2025, submitted for publication.
-1. Y. Xiao, <ins>M. Zhu</ins>, D. Tsaoulidis, T. Chen, "Optimising experimental processes with Gaussian process regression and an early stopping strategy," 2025, submitted for publication.
-1. S. Kay, <ins>M. Zhu</ins>, A. Lane, J. Shaw, P. Martin, and D. Zhang, "Machine learning-aided robust optimisation for identifying optimal operational spaces under uncertainty," 2025, submitted for publication.
-1. M. Zarei, M. Dolat, R. Murali, <ins>M. Zhu</ins>, O. Pennington, D. Zhang, M. Short, "Real-time dynamic optimisation for sustainable biogas production through anaerobic co-digestion with hybrid models," 2025, submitted for publication.
+1. <ins>M. Zhu</ins>, O. Pennington, S. Kay, M. Zarei, M. Short, and D. Zhang, "Optimization-based operational space design for effective bioprocess performance under uncertainty," accepted, in 35th European Symposium on Computer Aided Process Engineering (ESCAPE 35), Ghent, Belgium, 2025.
+1. Y. Xiao, <ins>M. Zhu</ins>, D. Tsaoulidis, T. Chen, "Optimising experimental processes with Gaussian process regression and an early stopping strategy," accepted, in 35th European Symposium on Computer Aided Process Engineering (ESCAPE 35), Ghent, Belgium, 2025.
+1. S. Kay, <ins>M. Zhu</ins>, A. Lane, J. Shaw, P. Martin, and D. Zhang, "Machine learning-aided robust optimisation for identifying optimal operational spaces under uncertainty," accepted, in 35th European Symposium on Computer Aided Process Engineering (ESCAPE 35), Ghent, Belgium, 2025.
+1. M. Zarei, M. Dolat, R. Murali, <ins>M. Zhu</ins>, O. Pennington, D. Zhang, M. Short, "Real-time dynamic optimisation for sustainable biogas production through anaerobic co-digestion with hybrid models," accepted, in 35th European Symposium on Computer Aided Process Engineering (ESCAPE 35), Ghent, Belgium, 2025.
 1. S. Kay, <ins>M. Zhu</ins>, O. Pennington, and D. Zhang, "Machine learning-driven optimisation of operational spaces for uncertainty management in process industries," accepted, in 14th IFAC Symposium on Dynamics and Control of Process Systems, including Biosystems (DYCOPS 2025), Bratislava, Slovakia, 2025.
 
 ### CONFERENCE PAPERS
