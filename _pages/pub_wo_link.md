@@ -16,10 +16,11 @@ Publications
 
 
 ### JOURNAL PAPERS (IN PRESS)
-1. S. Kay, <ins>M. Zhu</ins>, A. Lane, J. Shaw, P. Martin, and D. Zhang, "A novel approach to identify optimal and flexible operational spaces for product quality control," Chemical Engineering Science, 2025, in press. [paper-link](https://doi.org/10.1016/j.ces.2025.121429)
+
 
 ### JOURNAL PAPERS
-1. <ins>M. Zhu</ins> and A. Bemporad, “Global and preference-based optimization with mixed variables using piecewise aﬃne surrogates,” Journal of Optimization Theory and Applications, vol. 204, no. 26, 2025. [paper-link](https://doi.org/10.1007/s10957-024-02596-y), [code](https://github.com/mjzhu-p/PWAS), [arXiv](https://arxiv.org/abs/2302.04686)
+1. S. Kay, <ins>M. Zhu</ins>, A. Lane, J. Shaw, P. Martin, and D. Zhang, "A novel approach to identify optimal and flexible operational spaces for product quality control," Chemical Engineering Science, 2025, vol. 309, no. 121429. [paper-link](https://doi.org/10.1016/j.ces.2025.121429), [pdf](http://mjzhu-p.github.io/files/2025-ces_qbd.pdf)
+2. <ins>M. Zhu</ins> and A. Bemporad, “Global and preference-based optimization with mixed variables using piecewise aﬃne surrogates,” Journal of Optimization Theory and Applications, vol. 204, no. 26, 2025. [paper-link](https://doi.org/10.1007/s10957-024-02596-y), [code](https://github.com/mjzhu-p/PWAS), [arXiv](https://arxiv.org/abs/2302.04686)
 1. <ins>M. Zhu</ins>, A.  Mroz, L. Gui, K. Jelfs, A. Bemporad, EA. del Río Chanona, and Y. Lee, "Discrete and mixed-variable experimental design with surrogate-based approach," Digital Discovery, 2024, vol. 3, pp. 2589-2606, 2024. [paper-link](https://doi.org/10.1039/D4DD00113C), [code](https://github.com/MolChemML/ExpDesign), [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6626a713418a5379b0674df2)
 1. L. Cannelli, <ins>M. Zhu</ins>, F. Farina, A. Bemporad, and D. Piga, “Multi-agent active learning for distributed black-box optimization,” IEEE Control Systems Letters, vol. 7, pp. 1488–1493, 2023. [paper-link](https://ieeexplore.ieee.org/document/10107979), [pdf](http://mjzhu-p.github.io/files/2023-dglis-lcss.pdf), [code](https://leon.idsia.ch/lib_download)
 1. <ins>M. Zhu</ins>, D. Piga, and A. Bemporad, “C-GLISp: Preference-based global optimization under unknown constraints with applications to controller calibration,” IEEE Trans. Contr. Systems Technology, vol. 30, no. 3, pp. 2176–2187, 2022. [paper-link](https://doi.org/10.1109/TCST.2021.3136711), [pdf](http://mjzhu-p.github.io/files/2022-tcst-cglisp.pdf), [code](https://github.com/bemporad/GLIS)
