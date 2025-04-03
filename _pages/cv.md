@@ -10,8 +10,15 @@ redirect_from:
 
 Work Experience
 ======
+* **University of Liverpool**, Liverpool, UK
+  * _Research Fellow_: 04/2025 - Present
+  * Department of Chemistry
+  * Supervisor: [Prof. Andrew I Cooper](https://www.liverpool.ac.uk/people/andrew-cooper) and [Dr. Xenofon Evangelopoulos](https://www.liverpool.ac.uk/people/xenofon-evangelopoulos)
+  * Funded by the AI for Chemistry Hub ([AIChemy](https://aichemy.ac.uk/))
+
+
 * **University of Manchester**, Manchester, UK
-  * _Post-Doctoral Research Associate (PDRA)_: 03/2024 - Present
+  * _Post-Doctoral Research Associate (PDRA)_: 03/2024 - 03/2025
   * Department of Chemical Engineering 
   * Supervisor: [Dr. Dongda Zhang](https://research.manchester.ac.uk/en/persons/dongda.zhang)
   * Project: _A Novel Bioprocess Control Strategy Under Uncertainty via Operational Space Identification_

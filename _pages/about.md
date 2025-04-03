@@ -9,15 +9,18 @@ redirect_from:
 ---
 <br />
 
-I'm Mengjia (梦佳), a Post-Doctoral Research Associate (PDRA) at University of Manchester under the supervision of [Dr. Dongda Zhang](https://research.manchester.ac.uk/en/persons/dongda.zhang). 
+I'm Mengjia (梦佳), a Research Fellow in AI-Driven Automated Chemistry in [Cooper Group](https://www.liverpool.ac.uk/cooper-group/) at the University of Liverpool, advised by [Prof. Andrew I Cooper](https://www.liverpool.ac.uk/people/andrew-cooper) and [Dr. Xenofon Evangelopoulos](https://www.liverpool.ac.uk/people/xenofon-evangelopoulos).
 
-I did my Ph.D. in Systems Science in the [DYSCO research unit](http://dysco.imtlucca.it/) supervised by [Prof. Alberto Bemporad](http://cse.lab.imtlucca.it/~bemporad/) at the IMT School for Advanced Studies Lucca, Italy.
-I received my bachelor degree in Chemical Engineering from the University of Washington, Seattle, WA, USA, in 2017 and my master degree in Advanced Chemical Engineering with Process System Engineering from the Imperial College London, UK, in 2019 under the supersivion of [Prof. Sandro Macchietto](https://www.imperial.ac.uk/people/s.macchietto). 
+I was a Post-Doctoral Research Associate (PDRA) at the University of Manchester under the supervision of [Dr. Dongda Zhang](https://research.manchester.ac.uk/en/persons/dongda.zhang) from March 2024 - March 2025. I obtained my Ph.D. in Systems Science from the IMT School for Advanced Studies Lucca, Italy in 2024, supervised by [Prof. Alberto Bemporad](http://cse.lab.imtlucca.it/~bemporad/).
+I received my bachelor degree in Chemical Engineering from the University of Washington, Seattle, WA, USA, in 2017 and my master degree in Advanced Chemical Engineering with Process System Engineering from the Imperial College London, UK, in 2019 under the supervision of [Prof. Sandro Macchietto](https://www.imperial.ac.uk/people/s.macchietto). 
 
 My current research interests include black-box optimization and control, with particular emphasis on active, preference, and safe learning.
 
 ### Updates:
 <div class="scrollable" markdown=1>
+
+- [April-01-2025] I am starting my Research Fellow position at the University of Liverpool in [Cooper Group](https://www.liverpool.ac.uk/cooper-group/). 
+  - This position is funded by the AI for Chemistry Hub ([AIChemy](https://aichemy.ac.uk/))
 
 - [Feb-23-2025] Our paper "A novel approach to identify optimal and flexible operational spaces for product quality control" has been accepted by Chemical Engineering Science.
   - [paper-link](https://doi.org/10.1016/j.ces.2025.121429)
