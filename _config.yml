@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mengjia Zhu"
 title_separator          : "-"
 name                     : &name "Mengjia Zhu"
-description              : &description "PDRA at UoM"
+description              : &description "Research Fellow at UoL"
 url                      :  "https://mjzhu-p.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mjzhu-p/mjzhu-p.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Mengjia Zhu"
   avatar           : "avatar.jpg"
-  bio              : "PDRA at UoM. My current research interests include black-box optimization and control, with particular emphasis on active, preference, and safe learning."
-  location         : "Manchester, UK"
+  bio              : "Research Fellow at UoL. My current research interests include black-box optimization and control, with particular emphasis on active, preference, and safe learning."
+  location         : "Liverpool, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9fz9eboAAAAJ&hl=en"
