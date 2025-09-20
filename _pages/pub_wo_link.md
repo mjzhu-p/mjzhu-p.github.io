@@ -16,6 +16,8 @@ Publications
 1. <ins>M. Zhu</ins>, O. Pennington, T. Pincam, M. Zarei, S. Kay, Y. Liu, M. Short, and D. Zhang, "A novel bioprocess control strategy under uncertainty via operational space identification," 2025, submitted for publication.
 1. S. Kay, <ins>M. Zhu</ins>, A. Lane, J. Shaw, and D. Zhang, "A surrogate-enhanced framework for flexible and optimal operational space identification under uncertainty," 2025, submitted for publication.
 1. Y. Xiao, <ins>M. Zhu</ins>, D. Tsaoulidis, and T. Chen, "Adaptive optimisation of experiments with early stopping using gaussian process regression," 2025, submitted for publication.
+
+
 ### JOURNAL PAPERS (IN PRESS)
 
 
