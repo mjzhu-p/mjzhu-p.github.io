@@ -58,5 +58,5 @@ Skills
 
 Service
 ======
-* Reviewer: MAPR, T-ITS, COAP, THMS, Sci Rep, CDC 23' 24', ACC 22' 23' 24', ECC 24', ICANN 24'
+* Reviewer: MAPR, T-ITS, COAP, TAC, THMS, Sci Rep, CDC 23' 24' 25', ACC 22' 23' 24', ECC 24', ICANN 24' 25'
 * Chair & Co-chair for several sessions of the [AI for NetZero Webinars](https://www.youtube.com/@ai4netzero)

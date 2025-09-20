@@ -12,9 +12,10 @@ Publications
 ======
 
 ### JOURNAL PAPERS (SUBMITTED) 
+1. L. Cannelli, <ins>M. Zhu</ins>, M. Schranz, A. Bemporad, and D. Piga, “D-GLISp: A distributed algorithm for preference-based black-box optimization in multi-agent systems,” 2025, submitted for publication.
 1. <ins>M. Zhu</ins>, O. Pennington, T. Pincam, M. Zarei, S. Kay, Y. Liu, M. Short, and D. Zhang, "A novel bioprocess control strategy under uncertainty via operational space identification," 2025, submitted for publication.
-
-
+1. S. Kay, <ins>M. Zhu</ins>, A. Lane, J. Shaw, and D. Zhang, "A surrogate-enhanced framework for flexible and optimal operational space identification under uncertainty," 2025, submitted for publication.
+1. Y. Xiao, <ins>M. Zhu</ins>, D. Tsaoulidis, and T. Chen, "Adaptive optimisation of experiments with early stopping using gaussian process regression," 2025, submitted for publication.
 ### JOURNAL PAPERS (IN PRESS)
 
 
@@ -27,16 +28,17 @@ Publications
 
 
 ### CONFERENCE PAPERS (SUBMITTED)
-1. <ins>M. Zhu</ins>, O. Pennington, S. Kay, M. Zarei, M. Short, and D. Zhang, "Optimization-based operational space design for effective bioprocess performance under uncertainty," accepted, in 35th European Symposium on Computer Aided Process Engineering (ESCAPE 35), Ghent, Belgium, 2025.
-1. S. Kay, <ins>M. Zhu</ins>, A. Lane, J. Shaw, P. Martin, and D. Zhang, "Machine learning-aided robust optimisation for identifying optimal operational spaces under uncertainty," accepted, in 35th European Symposium on Computer Aided Process Engineering (ESCAPE 35), Ghent, Belgium, 2025.
-1. M. Zarei, M. Dolat, R. Murali, <ins>M. Zhu</ins>, O. Pennington, D. Zhang, M. Short, "Real-time dynamic optimisation for sustainable biogas production through anaerobic co-digestion with hybrid models," accepted, in 35th European Symposium on Computer Aided Process Engineering (ESCAPE 35), Ghent, Belgium, 2025.
-1. S. Kay, <ins>M. Zhu</ins>, O. Pennington, and D. Zhang, "Machine learning-driven optimisation of operational spaces for uncertainty management in process industries," accepted, in 14th IFAC Symposium on Dynamics and Control of Process Systems, including Biosystems (DYCOPS 2025), Bratislava, Slovakia, 2025.
+
 
 ### CONFERENCE PAPERS
+1. S. Kay, <ins>M. Zhu</ins>, O. Pennington, and D. Zhang, "Machine learning-driven optimisation of operational spaces for uncertainty management in process industries," in 14th IFAC Symposium on Dynamics and Control of Process Systems, including Biosystems (DYCOPS 2025), IFAC-PapersOnLine, vol. 59, no. 6, pp. 241-246, Bratislava, Slovakia, 2025. [paper-link](https://doi.org/10.1016/j.ifacol.2025.07.152)
 1. <ins>M. Zhu</ins>, A. Bemporad, M. Kneissl, and H. Esen, “Learning critical scenarios in feedback control systems for automated driving,” in IEEE 26th Int. Conf. on Intelligent Transportation Systems (ITSC), Bilbao, Bizkaia, Spain, 2023. [paper-link](https://ieeexplore.ieee.org/document/10421978), [pdf](https://arxiv.org/pdf/2209.12586)
 1. <ins>M. Zhu</ins>, A. Bemporad, and D. Piga, “Preference-based MPC calibration,” in European Control Conference, 2021. [paper-link](https://doi.org/10.23919/ECC54610.2021.9654900), [pdf](http://mjzhu-p.github.io/files/2021-ecc.pdf)
 
 ### BOOK CHAPTERS
+1. <ins>M. Zhu</ins>, O. Pennington, S. Kay, M. Zarei, M. Short, and D. Zhang, "Optimization-based operational space design for effective bioprocess performance under uncertainty," Systems and Control Transactions, vol. 4, pp. 2291-2296, 2025. [paper-link](https://doi.org/10.69997/sct.131628), [pdf](https://psecommunity.org/wp-content/plugins/wpor/includes/file/2506/LAPSE-2025.0520-1v1.pdf)
+1. S. Kay, <ins>M. Zhu</ins>, A. Lane, J. Shaw, P. Martin, and D. Zhang, "Machine learning-aided robust optimisation for identifying optimal operational spaces under uncertainty," Systems and Control Transactions, vol. 4, pp. 1041-1046, 2025. [paper-link](https://doi.org/10.69997/sct.188062), [pdf](https://psecommunity.org/wp-content/plugins/wpor/includes/file/2506/LAPSE-2025.0319-1v1.pdf)
+1. M. Zarei, M. Dolat, R. Murali, <ins>M. Zhu</ins>, O. Pennington, D. Zhang, M. Short, "Real-time dynamic optimisation for sustainable biogas production through anaerobic co-digestion with hybrid models," Systems and Control Transactions, vol. 4, pp. 2423-2428, 2025. [paper-link](https://doi.org/10.69997/sct.130144), [pdf](https://psecommunity.org/wp-content/plugins/wpor/includes/file/2506/LAPSE-2025.0541-1v1.pdf)
 1. A. Molin, E. Aguilar, D. Nickovic, <ins>M. Zhu</ins>, A. Bemporad, and H. Esen, “Speciﬁcation-guided critical scenario identiﬁcation for automated driving,” 25th International Symposium on Formal Methods, 2023. [paper-link](https://doi.org/10.1007/978-3-031-27481-7_35), [pdf](https://arxiv.org/pdf/2303.05139.pdf)
 1. <ins>M. Zhu</ins>, FL. Santamaria, S. Macchietto, "A general dynamic model of a complete milk pasteuriser unit subject to fouling," in Computer Aided Chemical Engineering, vol. 48, pp. 247-252, 2020. [paper-link](https://doi.org/10.1016/B978-0-12-823377-1.50042-2), [pdf](http://mjzhu-p.github.io/files/2020-escape30.pdf)
 

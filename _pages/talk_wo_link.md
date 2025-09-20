@@ -9,6 +9,8 @@ author_profile: true
 
 <br>
 
+[2025-07-09] "Optimization-based operational space design for effective bioprocess performance under uncertainty", *35th European Symposium on Computer Aided Process Engineering (ESCAPE 35)*, Ghent, Belgium. [webpage](https://escape35-belgium.eu/)
+
 [2024-12-08] "Optimization-based operational space design for effective bioprocess performance under uncertainty", *AI for NetZero Conference*, Exeter, UK. [webpage](https://netzeroplus.ac.uk/ai-for-net-zero-conference/)
 
 [2024-10-29] "Optimization-based operational space design for effective bioprocess performance under uncertainty", *AI for NetZero Webinars*, online. [video](https://www.youtube.com/watch?v=tTYoxVmPXPc)
