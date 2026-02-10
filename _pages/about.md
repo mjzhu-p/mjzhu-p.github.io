@@ -9,7 +9,7 @@ redirect_from:
 ---
 <br />
 
-I'm Mengjia (梦佳), a Research Fellow in AI-Driven Automated Chemistry in [Cooper Group](https://www.liverpool.ac.uk/cooper-group/) at the University of Liverpool, advised by [Prof. Andrew I Cooper](https://www.liverpool.ac.uk/people/andrew-cooper) and [Dr. Xenofon Evangelopoulos](https://www.liverpool.ac.uk/people/xenofon-evangelopoulos).
+I'm Mengjia (梦佳), a Research Fellow in AI-Driven Automated Chemistry in [Cooper Group](https://www.liverpool.ac.uk/cooper-group/) at the University of Liverpool, advised by [Prof. Andrew I Cooper](https://www.liverpool.ac.uk/people/andrew-cooper).
 
 I was a Post-Doctoral Research Associate (PDRA) at the University of Manchester under the supervision of [Dr. Dongda Zhang](https://research.manchester.ac.uk/en/persons/dongda.zhang) from March 2024 - March 2025. I obtained my Ph.D. in Systems Science from the IMT School for Advanced Studies Lucca, Italy in 2024, supervised by [Prof. Alberto Bemporad](http://cse.lab.imtlucca.it/~bemporad/).
 I received my bachelor degree in Chemical Engineering from the University of Washington, Seattle, WA, USA, in 2017 and my master degree in Advanced Chemical Engineering with Process System Engineering from the Imperial College London, UK, in 2019 under the supervision of [Prof. Sandro Macchietto](https://www.imperial.ac.uk/people/s.macchietto). 
