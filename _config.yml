@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Mengjia Zhu"
 title_separator          : "-"
-name                     : "Mengjia Zhu"
-description              : "Research Fellow at UoL. My current research interests include data-efficient optimization and learning-based control for complex systems with uncertain or unavailable models, with applications in autonomous and safety-critical systems."
+name                     : &name "Mengjia Zhu"
+description              : &description "Research Fellow at UoL"
 url                      :  "https://mjzhu-p.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mjzhu-p/mjzhu-p.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mengjia Zhu"
   avatar           : "avatar.jpg"
-  bio              : "Research Fellow at UoL."
+  bio              : "Research Fellow at UoL. My current research interests include data-efficient optimization and learning-based control for complex systems with uncertain or unavailable models, with applications in autonomous and safety-critical systems."
   location         : "Liverpool, UK"
   employer         :
   pubmed           : 
