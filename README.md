@@ -1,3 +1,3 @@
 Personal webpage.
 
-Forked from [academicpages/academicpages.github.io](academicpages/academicpages.github.io)
+Forked from [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
