@@ -14,10 +14,16 @@ I'm Mengjia (梦佳), a Research Fellow in AI-Driven Automated Chemistry in [Coo
 I was a Post-Doctoral Research Associate (PDRA) at the University of Manchester under the supervision of [Dr. Dongda Zhang](https://research.manchester.ac.uk/en/persons/dongda.zhang) from March 2024 - March 2025. I obtained my Ph.D. in Systems Science from the IMT School for Advanced Studies Lucca, Italy in 2024, supervised by [Prof. Alberto Bemporad](http://cse.lab.imtlucca.it/~bemporad/).
 I received my bachelor degree in Chemical Engineering from the University of Washington, Seattle, WA, USA, in 2017 and my master degree in Advanced Chemical Engineering with Process System Engineering from the Imperial College London, UK, in 2019 under the supervision of [Prof. Sandro Macchietto](https://www.imperial.ac.uk/people/s.macchietto). 
 
-My current research interests include black-box optimization and control, with particular emphasis on active, preference, and safe learning.
+My research focuses on data-efficient optimization and learning-based control for complex systems where models are unavailable, expensive, or uncertain. I work on black-box and surrogate-based optimization, including preference-based and mixed-variable methods, with a strong emphasis on optimization under unknown constraints. Additional interests include active and distributed learning, safe and specification-guided learning for feedback control systems, and critical scenario identification for safety-critical applications. Key application domains include automated driving, process systems, and automated and autonomous laboratory experimentation, with the goal of enabling reliable closed-loop decision making in real-world scientific and engineering systems.
 
 ### Updates:
 <div class="scrollable" markdown=1>
+
+- [Feb-01-2026] Our paper "A surrogate-enhanced framework for flexible and optimal operational space identification under uncertainty" is available on Chemical Engineering Science now.
+  - [paper-link](https://doi.org/10.1016/j.ces.2025.122973)
+
+- [July-09-2025] Presented our paper "Optimization-based operational space design for effective bioprocess performance under uncertainty" at [ESCAPE 35](https://escape35-belgium.eu/)
+  - [paper-link](https://doi.org/10.69997/sct.131628), [pdf](https://psecommunity.org/wp-content/plugins/wpor/includes/file/2506/LAPSE-2025.0520-1v1.pdf)
 
 - [April-01-2025] I am starting my Research Fellow position at the University of Liverpool in [Cooper Group](https://www.liverpool.ac.uk/cooper-group/). 
   - This position is funded by the AI for Chemistry Hub ([AIChemy](https://aichemy.ac.uk/))
