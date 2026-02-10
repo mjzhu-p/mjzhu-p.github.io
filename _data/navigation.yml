@@ -6,7 +6,6 @@ main:
   # - title: "Publications"
     # url: /publications/
 
-    
   - title: "Talks"
     url: /talks_list/   
 
@@ -14,7 +13,7 @@ main:
     # url: /talks/   
 
   - title: "Teaching"
-   url: /teaching_list/ 
+    url: /teaching_list/ 
 
 #  - title: "Teaching"
 #    url: /teaching/

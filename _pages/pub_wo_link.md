@@ -11,7 +11,7 @@ redirect_from:
 Publications
 ======
 
-Last updated on **February 10, 2026**. For my most recent publications, please visit my <u><a href="https://scholar.google.com/citations?user=9fz9eboAAAAJ&hl=en">Google Scholar profile</a></u>.
+Last updated on **February 10, 2026**. For my most recent publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=9fz9eboAAAAJ&hl=en).
 
 
 ### JOURNAL PAPERS (SUBMITTED) 
