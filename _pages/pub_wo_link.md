@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "Publications"
 permalink: /publications_list/
 author_profile: true
 redirect_from:
@@ -8,10 +9,7 @@ redirect_from:
 {% include base_path %}
 
 
-Publications
-======
-
-Last updated on **February 10, 2026**. For my most recent publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=9fz9eboAAAAJ&hl=en).
+Last updated on _February 10, 2026_. For my most recent publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=9fz9eboAAAAJ&hl=en).
 
 
 ### JOURNAL PAPERS (SUBMITTED) 

@@ -14,7 +14,7 @@ author_profile: true
 
 ### Demonstrator 
 
-[Spring 2025] COMP532: Machine Learning and BioInspired Optimisation, University of Liverpool
+[Spring 2025] COMP532: Machine Learning and Bio-inspired Optimisation, University of Liverpool
 
 [Spring 2025] CHEM180: Key Skills for Chemists 1, University of Liverpool
 
