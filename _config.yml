@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mengjia Zhu"
   avatar           : "avatar.jpg"
-  bio              : "Research Fellow at UoL. My research focuses on data-efficient optimization and learning-based control for complex systems where models are unavailable, expensive, or uncertain. I work on black-box and surrogate-based optimization, including preference-based and mixed-variable methods, with a strong emphasis on optimization under unknown constraints. Additional interests include active and distributed learning, safe and specification-guided learning for feedback control systems, and critical scenario identification for safety-critical applications. Key application domains include automated driving, process systems, and automated and autonomous laboratory experimentation, with the goal of enabling reliable closed-loop decision making in real-world scientific and engineering systems."
+  bio              : "Research Fellow at UoL."
   location         : "Liverpool, UK"
   employer         :
   pubmed           : 
