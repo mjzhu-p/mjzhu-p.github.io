@@ -11,6 +11,9 @@ redirect_from:
 Publications
 ======
 
+Last updated on **February 10, 2026**. For my most recent publications, please visit my <u><a href="https://scholar.google.com/citations?user=9fz9eboAAAAJ&hl=en">Google Scholar profile</a></u>.
+
+
 ### JOURNAL PAPERS (SUBMITTED) 
 1. L. Cannelli, <ins>M. Zhu</ins>, M. Schranz, A. Bemporad, and D. Piga, “D-GLISp: A distributed algorithm for preference-based black-box optimization in multi-agent systems,” 2025, submitted for publication.
 

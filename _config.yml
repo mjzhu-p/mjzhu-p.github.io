@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mengjia Zhu"
 title_separator          : "-"
 name                     : &name "Mengjia Zhu"
-description              : &description "Research Fellow at UoL"
+description              : &description "Research Fellow at UoL. My current research interests include data-efficient optimization and learning-based control for complex systems with uncertain or unavailable models, with applications in autonomous and safety-critical systems."
 url                      :  "https://mjzhu-p.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mjzhu-p/mjzhu-p.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9fz9eboAAAAJ&hl=en"
-  email            :  "mengjia.zhu@manchester.ac.uk"
+  email            :  "mengjia.zhu@liverpool.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Mengjia-Zhu-2"
   uri              :
   bitbucket        :
