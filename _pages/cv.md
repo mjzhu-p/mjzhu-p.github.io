@@ -13,14 +13,14 @@ Work Experience
 * **University of Liverpool**, Liverpool, UK
   * _Research Fellow_: 04/2025 - Present
   * Department of Chemistry
-  * Supervisor: [Prof. Andrew I Cooper](https://www.liverpool.ac.uk/people/andrew-cooper) and [Dr. Xenofon Evangelopoulos](https://www.liverpool.ac.uk/people/xenofon-evangelopoulos)
+  * Advisor: [Prof. Andrew I Cooper](https://www.liverpool.ac.uk/people/andrew-cooper) 
   * Funded by the AI for Chemistry Hub ([AIChemy](https://aichemy.ac.uk/))
 
 
 * **University of Manchester**, Manchester, UK
   * _Post-Doctoral Research Associate (PDRA)_: 03/2024 - 03/2025
   * Department of Chemical Engineering 
-  * Supervisor: [Dr. Dongda Zhang](https://research.manchester.ac.uk/en/persons/dongda.zhang)
+  * Advisor: [Dr. Dongda Zhang](https://research.manchester.ac.uk/en/persons/dongda.zhang)
   * Project: _A Novel Bioprocess Control Strategy Under Uncertainty via Operational Space Identification_
   * Funded by Engineering and Physical Sciences Research Council [[grant number EP/Y005600/1]](https://gtr.ukri.org/projects?ref=EP%2FY005600%2F1)
 
@@ -30,19 +30,19 @@ Education
 * **Scuola IMT Alti Studi Lucca** (IMT School for Advanced Studies Lucca), Lucca, Italy
   * _Ph.D. in Systems Science, 2024_
   * Thesis title: [_Global and preference-based optimization using surrogate-based method_](https://e-theses.imtlucca.it/415/1/ZhuMengjia_Thesis_final%20version.pdf)
-  * Supervisor: [Prof. Alberto Bemporad](http://cse.lab.imtlucca.it/~bemporad/)
+  * Advisor: [Prof. Alberto Bemporad](http://cse.lab.imtlucca.it/~bemporad/)
   * Member of [Dynamical systems, control and optimization (DYSCO) research unit](http://dysco.imtlucca.it/)
   * Erasmus+ traineeship: ChemE department, Imperial College London, 08/2023 - 01/2024
   * Ph.D. scholarship - 4 years
 * **Imperial College London**, London, UK
   * _M.Sc. in Advanced Chemical Engineering with Process System Engineering, 2019_
   * Thesis title: [_A general dynamic model of a complete milk pasteuriser unit subject to fouling_](https://mjzhu-p.github.io/files/2019-ZhuMengjia_masterThesis.pdf)
-  * Supervisor: [Prof. Sandro Macchietto](https://www.imperial.ac.uk/people/s.macchietto)
+  * Advisor: [Prof. Sandro Macchietto](https://www.imperial.ac.uk/people/s.macchietto)
   * Graduated with Distinction, Best Performance in Research Project
 * **University of Washington**, Seattle, US
   * _B.S. in Chemical Engineering, Minor in Math, 2017_
   * Capstone project: _Use retail food waste as a base for natural, sustainable and high-quality animal feeds_
-  * Supervisor: [Prof. Lilo Pozzo](https://www.pozzorg.com/)
+  * Advisor: [Prof. Lilo Pozzo](https://www.pozzorg.com/)
   * Scholarship: Bernice Frank Scholarship in Chemical Engineering
 
 
@@ -58,5 +58,16 @@ Skills
 
 Service
 ======
-* Reviewer: MAPR, T-ITS, COAP, TAC, THMS, Sci Rep, CDC 23' 24' 25', ACC 22' 23' 24', ECC 24', ICANN 24' 25'
+* Reviewer: 
+  * _Journals_: Mathematical Programming (MAPR), Computational Optimization and Applications (COAP), IEEE Transactions on Automatic Control (TAC), IEEE Transactions on Intelligent Transportation Systems (T-ITS), Control Engineering Practice, IEEE Transactions on Human Machine Systems (THMS), IEEE Transactions on Cybernetics (T-CYB), Scientific Reports
+  * _Conferences_: IEEE Conference on Decision and Control (CDC) 23' 24' 25', American Control Conference (ACC) 22' 23' 24', European Control Conference (ECC) 24', International Conference on Artificial Neural Networks (ICANN) 24' 25'
 * Chair & Co-chair for several sessions of the [AI for NetZero Webinars](https://www.youtube.com/@ai4netzero)
+
+
+<br>
+
+Others
+======
+* [AIchemy Collaborative Travel Fund (Round 2)](https://aichemy.ac.uk/collaborative-travel-fund-2025-round-2/)
+<!-- [Project funded: AI-Driven Multi-Fidelity Optimisation of Mesoporous Silica Synthesis](https://aichemy.ac.uk/funded-projects/) -->
+* [Catechol Benchmark Hackathon (NeurIPS 2025 DnB)](https://www.kaggle.com/competitions/catechol-benchmark-hackathon/overview): 2nd place (Team catechol_model with Liselle Atkin)
